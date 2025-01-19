@@ -11,6 +11,16 @@ key functionalities of the application should include;
 * a platform should also be possible where past survivors of traumatic events could be able to upload there story
 the idea is solely none profit however a donations based systems could be implemented in which donations are split fairly between me and the guides
 
-# <h4> The Goal should never be money, it should always be to help people in need <h4>
-Note to self: this is a one man job therefore it might take alittle longer. but ill get there eventually 
+__The Goal should never be money, it should always be to help people in need__
+__Note to self:__ this is a one man job therefore it might take alittle longer. but ill get there eventually 
 time/date of start is (19-01-2025 / 02AM)
+
+__Project Requirements__ <br>
+__Type of Project:__ Webapp (with hopes of expanding to mobile app).<br>
+__Project scope:__ small scale project.<br>
+__Functional Requirements:__ real time chat. <br>
+__Non Funtional Requirement:__ maintanability and security.<br>
+
+__Target Audience__ <br>
+__Platforms:__ IOS and Android. <br>
+__Demographic:__ males and females of all age and backgrounds. <br>
