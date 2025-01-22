@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chat Page</title>
+  <link rel="stylesheet" href="single_group_chat.css">
+</head>
+<body>
+  <div class="chat-container">
+    <aside class="chat-sidebar">
+      <h2>Chats</h2>
+      <div class="chat-list">
+        <div class="chat-item">
+          <div class="avatar">A</div>
+          <div class="chat-info">
+            <h4>Alex Johnson</h4>
+            <p>Last message...</p>
+          </div>
+        </div>
+        <div class="chat-item">
+          <div class="avatar">G</div>
+          <div class="chat-info">
+            <h4>Group: Developers</h4>
+            <p>John: Let's meet...</p>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <main class="chat-main">
+      <header class="chat-header">
+        <h2>Alex Johnson</h2>
+        <p>Last seen 2 minutes ago</p>
+      </header>
+
+      <div class="chat-messages">
+        <div class="message received">
+          <p>Hi, how are you?</p>
+          <span class="timestamp">10:00 AM</span>
+        </div>
+        <div class="message sent">
+          <p>I'm good, thanks! You?</p>
+          <span class="timestamp">10:01 AM</span>
+        </div>
+        <div class="message received">
+          <p>Doing great. Let’s catch up later!</p>
+          <span class="timestamp">10:05 AM</span>
+        </div>
+      </div>
+
+      <footer class="chat-footer">
+        <input type="text" placeholder="Type a message..." />
+        <button>Send</button>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>
